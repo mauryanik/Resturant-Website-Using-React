@@ -1,7 +1,7 @@
 const Menu = [
     {
       id: 1,
-      image: "images/maggi.jpg",
+      image: "https://mauryanik.github.io/Resturant-Website-Using-React/images/maggi.jpg",
       name: "maggi",
       category: "breakfast",        
       price: "12₹",
@@ -11,7 +11,7 @@ const Menu = [
   
     {
       id: 2,
-      image: "images/allupakoida.jpg",
+      image: "https://mauryanik.github.io/Resturant-Website-Using-React/images/allupakoida.jpg",
       name: "Aaloo Pakoda",
       category: "evening",
       price: "20₹",
@@ -20,7 +20,7 @@ const Menu = [
     },
     {
       id: 3,
-      image: "images/corn.jpg",
+      image: "https://mauryanik.github.io/Resturant-Website-Using-React/images/corn.jpg",
       name: "Corn",
       category: "breakfast",
       price: "10₹",
@@ -29,7 +29,7 @@ const Menu = [
     },
     {
       id: 4,
-      image: "images/chola.jpg",
+      image: "https://mauryanik.github.io/Resturant-Website-Using-React/images/chola.jpg",
       name: "Chhola",
       category: "lunch",
       price: "50₹",
@@ -38,7 +38,7 @@ const Menu = [
     },
     {
       id: 5,
-      image: "images/pizza.jpg",
+      image: "https://mauryanik.github.io/Resturant-Website-Using-React/images/pizza.jpg",
       name: "Pizza",
       category: "evening",
       price: "80₹",
@@ -47,7 +47,7 @@ const Menu = [
     },
     {
       id: 6,
-      image: "images/nonvegthali.jpg",
+      image: "https://mauryanik.github.io/Resturant-Website-Using-React/images/nonvegthali.jpg",
       name: "Non-Veg Thali",
       category: "dinner",
       price: "180₹",
@@ -56,7 +56,7 @@ const Menu = [
     },
     {
       id: 7,
-      image: "images/sweet.jpg",
+      image: "https://mauryanik.github.io/Resturant-Website-Using-React/images/sweet.jpg",
       name: "Sweets",
       category: "dinner",
       price: "60₹",
@@ -65,7 +65,7 @@ const Menu = [
     },
     {
       id: 8,
-      image: "images/rajmarice.jpg",
+      image: "https://mauryanik.github.io/Resturant-Website-Using-React/images/rajmarice.jpg",
       name: "Rajma Rice",
       category: "lunch",
       price: "60₹",
@@ -74,7 +74,7 @@ const Menu = [
     },
     {
       id: 9,
-      image: "images/samosa.jpg",
+      image: "https://mauryanik.github.io/Resturant-Website-Using-React/images/samosa.jpg",
       name: "Samosa",
       category: "evening",
       price: "10₹",
