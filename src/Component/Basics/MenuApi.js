@@ -2,7 +2,7 @@ const Menu = [
     {
       id: 1,
       image: "https://mauryanik.github.io/Resturant-Website-Using-React/images/maggi.jpg",
-      name: "maggi",
+      name: "chowmein",
       category: "breakfast",        
       price: "12₹",
       description:
